@@ -1,0 +1,17 @@
+========== PRIVACY SCAN REPORT ==========
+Date : 2026-08-22 10:38:58.906706
+File scanned : /mnt/c/Users/LENOVO/BehaviouralThreatMonitor/input/datasets/sample_data.csv
+Total Records : 50
+Affected Records : 34
+Clean Records : 16
+Blocked Activities : 34
+Permitted Activities : 16
+Uploaded Files : 32
+Downloaded Files : 9
+Other Activities : 9
+
+Top Platforms
+ChatGPT : 9
+LinkedIn : 8
+Gemini : 7
+=========================================
