@@ -1,0 +1,35 @@
+Date,Employee,Department,Platform,Activity,Violation,Policy Status,Risk
+2026-08-22 10:38:58.551341,Arya Sekhon,Finance,Gemini,sheet file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.561280,Lakshit Bandi,Administration,ChatGPT,ppt file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.567608,Vasatika Trivedi,Legal,Gemini,jpg file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.573975,Sahil Baria,Cybersecurity,ChatGPT,pdf file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.580119,Odika Oak,Sales,Claude,document file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.587143,Anjali Thakkar,Cybersecurity,LinkedIn,pdf file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.593603,Anamika Bakshi,Cybersecurity,ChatGPT,jpg file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.599391,Samarth Dada,IT,Discord,login / sign up,Policy Violation,Blocked,High
+2026-08-22 10:38:58.605793,Rishi Batra,Cybersecurity,Stack Overflow,png file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.612030,Jagdish Muni,Administration,ChatGPT,pdf file downloaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.618276,Thomas Deo,Finance,Naukri.com,jpg file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.625599,Bhavani Dutta,HR,Claude,pdf file downloaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.634094,Frederick Sane,IT,LinkedIn,pdf file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.644103,Anjali Patil,Marketing,Gemini,jpeg file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.654714,Laban Gupta,Sales,Claude,ppt file downloaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.664806,Farhan Narang,Data Analytics,Discord,png file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.674724,Azad Dhaliwal,IT,Stack Overflow,jpg file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.684686,Rudra Sami,Cybersecurity,ChatGPT,pdf file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.694473,Anthony Parekh,Finance,Gemini,sheet file downloaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.704783,Sudiksha Kapadia,Data Analytics,Naukri.com,jpg file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.714690,Harrison Shan,Sales,Claude,document file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.726170,Om Natt,Finance,Gemini,document file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.736508,Mahika Datta,Data Analytics,Pastebin,binary file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.746263,Veda Bakshi,Finance,Gemini,document file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.757022,Kala Ben,Marketing,ChatGPT,jpeg file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.767630,Balvan Bajaj,Marketing,Claude,document file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.777111,Yashica Minhas,Data Analytics,Naukri.com,document file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.787948,Ladli Dayal,Marketing,Claude,document file downloaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.798093,Divya Alluwalia,Sales,Gemini,jpg file downloaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.808054,Gunbir Singh,Sales,Naukri.com,pdf file downloaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.818150,Palak Sangha,Legal,ChatGPT,document file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.827151,Vedant Thakur,IT,Stack Overflow,png file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.836443,Alka Hari,IT,ChatGPT,png file uploaded,Policy Violation,Blocked,High
+2026-08-22 10:38:58.845989,Diya Kanda,Finance,Claude,sheet file uploaded,Policy Violation,Blocked,High
