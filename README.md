@@ -1,4 +1,4 @@
-# Behavioural Threat Monitor System (BTMS)
+# Behavioural Threat Monitor System
 
 **Python-based cybersecurity monitoring system** designed to monitor user activity, identify policy violations, scan network exposure, maintain security logs, and protect log integrity.
 
