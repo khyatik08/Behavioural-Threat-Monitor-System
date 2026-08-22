@@ -1,0 +1,52 @@
+name,email,phone,department,notes,platform,access status
+Project Alpha,none,none,Finance,jpg file downloaded,ChatGPT,blockeded
+Model v2 Results,none,none,IT,document file uploaded,GitHub,permitted
+Batch Config,none,none,IT,no information,none,none
+System Log,none,none,IT,no information,none,none
+Test Output,none,none,IT,no information,none,none
+Arya Sekhon,arya.sekhon@company.com,9XXXXXXXXX,Finance,sheet file uploaded,Gemini,blocked
+Lakshit Bandi,lakshit.bandi@company.com,7XXXXXXXXX,Administration,ppt file uploaded,ChatGPT,blocked
+Khushboo Mahajan,khushboo.mahajan@company.com,9XXXXXXXXX,Marketing,png file uploaded,LinkedIn,permitted
+Vasatika Trivedi,vasatika.trivedi@company.com,9XXXXXXXXX,Legal,jpg file uploaded,Gemini,blocked
+Sahil Baria,sahil.baria@company.com,9XXXXXXXXX,Cybersecurity,pdf file uploaded,ChatGPT,blocked
+Elijah Sahni,elijah.sahni@company.com,8XXXXXXXXX,Data Analytics,login / sign up,GitHub,permitted
+Ekaraj Shukla,ekaraj.shukla@company.com,9XXXXXXXXX,Marketing,jpeg file uploaded,LinkedIn,permitted
+Odika Oak,odika.oak@company.com,7XXXXXXXXX,Sales,document file uploaded,Claude,blocked
+Anjali Thakkar,anjali.thakkar@company.com,8XXXXXXXXX,Cybersecurity,pdf file uploaded,LinkedIn,blocked
+Anamika Bakshi,anamika.bakshi@company.com,8XXXXXXXXX,Cybersecurity,jpg file uploaded,ChatGPT,blocked
+Samarth Dada,samarth.dada@company.com,9XXXXXXXXX,IT,login / sign up,Discord,blocked
+Aryan Karpe,aryan.karpe@company.com,9XXXXXXXXX,Marketing,login / sign up,LinkedIn,permitted
+Rishi Batra,rishi.batra@company.com,7XXXXXXXXX,Cybersecurity,png file uploaded,Stack Overflow,blocked
+Jagdish Muni,jagdish.muni@company.com,7XXXXXXXXX,Administration,pdf file downloaded,ChatGPT,blocked
+Arin Dora,arin.dora@company.com,9XXXXXXXXX,IT,login / sign up,GitHub,permitted
+Thomas Deo,thomas.deo@company.com,9XXXXXXXXX,Finance,jpg file uploaded,Naukri.com,blocked
+Bhavani Dutta,bhavani.dutta@company.com,9XXXXXXXXX,HR,pdf file downloaded,Claude,blocked
+Frederick Sane,frederick.sane@company.com,9XXXXXXXXX,IT,pdf file uploaded,LinkedIn,blocked
+Anjali Patil,anjali.patil@company.com,8XXXXXXXXX,Marketing,jpeg file uploaded,Gemini,blocked
+Laban Gupta,laban.gupta@company.com,9XXXXXXXXX,Sales,ppt file downloaded,Claude,blocked
+Farhan Narang,farhan.narang@company.com,9XXXXXXXXX,Data Analytics,png file uploaded,Discord,blocked
+Azad Dhaliwal,azad.dhaliwal@company.com,9XXXXXXXXX,IT,jpg file uploaded,Stack Overflow,blocked
+Rudra Sami,rudra.sami@company.com,7XXXXXXXXX,Cybersecurity,pdf file uploaded,ChatGPT,blocked
+Anthony Parekh,anthony.parekh@company.com,7XXXXXXXXX,Finance,sheet file downloaded,Gemini,blocked
+Sudiksha Kapadia,sudiksha.kapadia@company.com,9XXXXXXXXX,Data Analytics,jpg file uploaded,Naukri.com,blocked
+Harrison Shan,harrison.shan@company.com,8XXXXXXXXX,Sales,document file uploaded,Claude,blocked
+Ayush Palan,ayush.palan@company.com,9XXXXXXXXX,HR,jpeg file uploaded,LinkedIn,permitted
+Om Natt,om.natt@company.com,7XXXXXXXXX,Finance,document file uploaded,Gemini,blocked
+Mahika Datta,mahika.datta@company.com,9XXXXXXXXX,Data Analytics,binary file uploaded,Pastebin,blocked
+Veda Bakshi,veda.bakshi@company.com,9XXXXXXXXX,Finance,document file uploaded,Gemini,blocked
+Kala Ben,kala.ben@company.com,9XXXXXXXXX,Marketing,jpeg file uploaded,ChatGPT,blocked
+Balvan Bajaj,balvan.bajaj@company.com,7XXXXXXXXX,Marketing,document file uploaded,Claude,blocked
+Sachi Naik,sachi.naik@company.com,8XXXXXXXXX,IT,login / sign up,GitHub,permitted
+Yashica Minhas,yashica.minhas@company.com,9XXXXXXXXX,Data Analytics,document file uploaded,Naukri.com,blocked
+Ladli Dayal,ladli.dayal@company.com,9XXXXXXXXX,Marketing,document file downloaded,Claude,blocked
+Nakul Bains,nakul.bains@company.com,6XXXXXXXXX,Sales,pdf file uploaded,LinkedIn,permitted
+Divya Alluwalia,divya.alluwalia@company.com,8XXXXXXXXX,Sales,jpg file downloaded,Gemini,blocked
+Gunbir Singh,gunbir.singh@company.com,8XXXXXXXXX,Sales,pdf file downloaded,Naukri.com,blocked
+Palak Sangha,palak.sangha@company.com,8XXXXXXXXX,Legal,document file uploaded,ChatGPT,blocked
+Vedant Thakur,vedant.thakur@company.com,7XXXXXXXXX,IT,png file uploaded,Stack Overflow,blocked
+Alka Hari,alka.hari@company.com,9XXXXXXXXX,IT,png file uploaded,ChatGPT,blocked
+Vrishti Bala,vrishti.bala@company.com,9XXXXXXXXX,Cybersecurity,document file downloaded,GitHub,permitted
+Nilima Rana,nilima.rana@company.com,9XXXXXXXXX,HR,login / sign up,Naukri.com,permitted
+Diya Kanda,diya.kanda@company.com,7XXXXXXXXX,Finance,sheet file uploaded,Claude,blocked
+Vinaya Jani,vinaya.jani@company.com,8XXXXXXXXX,Sales,pdf file uploaded,LinkedIn,permitted
+
